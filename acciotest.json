@@ -1,0 +1,4 @@
+{
+    "testRepo": "pig-emoji-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
